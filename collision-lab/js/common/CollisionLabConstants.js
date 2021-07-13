@@ -30,8 +30,8 @@ const CollisionLabConstants = {
 
   // Time
   TIME_STEP_DURATION: CollisionLabQueryParameters.timeStepDuration,
-  NORMAL_SPEED_FACTOR: 1,
-  SLOW_SPEED_FACTOR: 0.33,
+  NORMAL_SPEED_FACTOR: 0.5,
+  SLOW_SPEED_FACTOR: 0.1,
 
   // PlayArea
   MINOR_GRIDLINE_SPACING: 0.1,
@@ -47,7 +47,7 @@ const CollisionLabConstants = {
   MIN_VELOCITY: 1E-3,
 
   // Balls
-  BALL_DEFAULT_DENSITY: 35,   // Uniform Density of Balls if constant-radius is OFF, in kg/m^3.
+  BALL_DEFAULT_DENSITY: 20,   // Uniform Density of Balls if constant-radius is OFF, in kg/m^3.
   BALL_CONSTANT_RADIUS: 0.15, // Radius of Balls if constant-radius is on, in meters.
 
   // Momenta Diagram
