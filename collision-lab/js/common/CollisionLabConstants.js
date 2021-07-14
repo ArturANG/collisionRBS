@@ -23,7 +23,7 @@ const PANEL_CORNER_RADIUS = 7;
 const CollisionLabConstants = {
 
   // Ranges
-  MASS_RANGE: new Range( 0.1, 200.0 ),
+  MASS_RANGE: new Range( 0.1, 50.0 ),
   VELOCITY_RANGE: new Range( -1000, 1000 ),
   ELASTICITY_PERCENT_RANGE: new Range( 0, 100 ),
   ELASTICITY_PERCENT_INTERVAL: 5,
