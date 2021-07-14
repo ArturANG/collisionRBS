@@ -47,8 +47,8 @@ const CollisionLabConstants = {
   MIN_VELOCITY: 1E-3,
 
   // Balls
-  BALL_DEFAULT_DENSITY: 80,   // Uniform Density of Balls if constant-radius is OFF, in kg/m^3.
-  BALL_CONSTANT_RADIUS: 0.15, // Radius of Balls if constant-radius is on, in meters.
+  BALL_DEFAULT_DENSITY: 200,   // Uniform Density of Balls if constant-radius is OFF, in kg/m^3.
+  BALL_CONSTANT_RADIUS: 0.30, // Radius of Balls if constant-radius is on, in meters.
 
   // Momenta Diagram
   MOMENTA_DIAGRAM_ASPECT_RATIO: new Dimension2( 7, 5.7 ),
