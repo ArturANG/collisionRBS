@@ -30,8 +30,8 @@ const CollisionLabConstants = {
 
   // Time
   TIME_STEP_DURATION: CollisionLabQueryParameters.timeStepDuration,
-  NORMAL_SPEED_FACTOR: 0.5,
-  SLOW_SPEED_FACTOR: 0.1,
+  NORMAL_SPEED_FACTOR: 0.1,
+  SLOW_SPEED_FACTOR: 0.05,
 
   // PlayArea
   MINOR_GRIDLINE_SPACING: 0.1,
