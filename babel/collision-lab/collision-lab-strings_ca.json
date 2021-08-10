@@ -33,13 +33,13 @@
     ]
   },
   "units.metersPerSecond": {
-    "value": "m/s",
+    "value": "10^7 m/s",
     "history": [
       {
         "userId": 936741,
         "timestamp": 1620650843043,
         "oldValue": "",
-        "newValue": "m/s"
+        "newValue": "10^7 m/s"
       }
     ]
   },
@@ -55,13 +55,13 @@
     ]
   },
   "units.kilogramMetersPerSecond": {
-    "value": "kg m/s",
+    "value": "10^7 u.m/s",
     "history": [
       {
         "userId": 936741,
         "timestamp": 1620650843043,
         "oldValue": "",
-        "newValue": "kg m/s"
+        "newValue": "10^7 u.m/s"
       }
     ]
   },
@@ -88,13 +88,13 @@
     ]
   },
   "units.kilograms": {
-    "value": "kg",
+    "value": "u",
     "history": [
       {
         "userId": 936741,
         "timestamp": 1620650843043,
         "oldValue": "",
-        "newValue": "kg"
+        "newValue": "u"
       }
     ]
   },

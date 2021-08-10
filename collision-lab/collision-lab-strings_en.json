@@ -51,7 +51,7 @@
     "value": "10^7 m/s"
   },
   "units.kilogramMetersPerSecond": {
-    "value": "u m/s"
+    "value": "10^7 u.m/s"
   },
   "units.percent": {
     "value": "\u0025"
