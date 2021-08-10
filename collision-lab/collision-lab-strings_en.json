@@ -1,6 +1,6 @@
 {
   "collision-lab.title": {
-    "value": "Collision Lab"
+    "value": "Collision and RBS Lab"
   },
   "screen.intro": {
     "value": "Intro"
@@ -39,7 +39,7 @@
     "value": "|{{symbol}}| = {{value}} {{units}}"
   },
   "units.kilograms": {
-    "value": "kg"
+    "value": "u"
   },
   "units.meters": {
     "value": "m"
@@ -48,10 +48,10 @@
     "value": "s"
   },
   "units.metersPerSecond": {
-    "value": "m/s"
+    "value": "10^7 m/s"
   },
   "units.kilogramMetersPerSecond": {
-    "value": "kg m/s"
+    "value": "u m/s"
   },
   "units.percent": {
     "value": "\u0025"
