@@ -47,8 +47,6 @@ Explore2DBallSystem.INITIAL_BALL_STATES = [
   new BallState( new Vector2( -1.0, 0.000 ), new Vector2( 2.00, 0.00 ), 1.00 ),
   new BallState( new Vector2( 0.00, 0.500 ), new Vector2( 0.00, 0.00 ), 1.00 ),
   new BallState( new Vector2( -1.0, -0.50 ), new Vector2( 0.00, 0.00 ), 1.00 ),
-  new BallState( new Vector2( 0.20, -0.65 ), new Vector2( 0.00, 0.00 ), 1.00 ),
-  new BallState( new Vector2( -1.5, 0.50 ), new Vector2( 0.00, 0.00 ), 1.00 ),
   new BallState( new Vector2( 1.00, 0.65 ), new Vector2( 0.00, 0.00 ), 1.00 )  
 ];
 
