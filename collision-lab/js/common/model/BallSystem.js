@@ -53,7 +53,7 @@ class BallSystem {
     options = merge( {
 
       // {RangeWithValue} - the range of the number of Balls in the system.
-      numberOfBallsRange: new RangeWithValue( 1, 4, 2 ),
+      numberOfBallsRange: new RangeWithValue( 1, 6, 2 ),
 
       // {boolean} - indicates if the trailing 'Paths' are visible initially.
       pathsVisibleInitially: false
